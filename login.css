@@ -1,0 +1,36 @@
+.container{
+    width: 480px;
+    height: 550px;
+    margin: auto;
+    background-color: #C4DAD2;
+    box-sizing: border-box;
+    border-radius: 10px ;
+    border: solid #FBF6E2;
+    margin-top: 30px;
+}
+.htag{
+    text-align: center;
+}
+.input-element{
+    width:90%;
+    margin: 17px;
+    padding: 8px;
+    border-radius: 3px;
+}
+.gender{
+    margin-left: 15px;
+}
+.blood{
+    margin-left: 15px;
+    
+
+}
+.country{
+    margin-left: 15px;
+}
+.cb{
+    margin-left: 15px;
+}
+.submit{
+    margin-left: 200px;
+}
